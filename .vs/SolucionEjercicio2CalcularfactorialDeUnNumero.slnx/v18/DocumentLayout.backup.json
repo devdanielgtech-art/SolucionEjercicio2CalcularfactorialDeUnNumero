@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\EjercicosDelExamen\\SolucionEjercicio2CalcularfactorialDeUnNumero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE9BAF3-4931-4B76-95A3-688CFF69027B}|Ejercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero.csproj|c:\\users\\usuario\\source\\repos\\ejercicosdelexamen\\solucionejercicio2calcularfactorialdeunnumero\\ejercicio2calcularfactorialdeunnumero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDE9BAF3-4931-4B76-95A3-688CFF69027B}|Ejercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero.csproj|solutionrelative:ejercicio2calcularfactorialdeunnumero\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE9BAF3-4931-4B76-95A3-688CFF69027B}|Ejercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero.csproj|C:\\Users\\USUARIO\\source\\repos\\EjercicosDelExamen\\SolucionEjercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDE9BAF3-4931-4B76-95A3-688CFF69027B}|Ejercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero.csproj|solutionrelative:Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\EjercicosDelExamen\\SolucionEjercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\EjercicosDelExamen\\SolucionEjercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T02:20:52.509Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\EjercicosDelExamen\\SolucionEjercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\EjercicosDelExamen\\SolucionEjercicio2CalcularfactorialDeUnNumero\\Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs",
+              "RelativeToolTip": "Ejercicio2CalcularfactorialDeUnNumero\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T00:48:25.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
